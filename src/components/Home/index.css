@@ -1,0 +1,29 @@
+.home-bg-card-sm {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.h-a-btn-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.h-a-btn {
+  padding: 20px;
+  background-color: transparent;
+  border: 0px;
+  color: black;
+  font-family: roboto;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.h-a-icon {
+  margin-right: 10px;
+}

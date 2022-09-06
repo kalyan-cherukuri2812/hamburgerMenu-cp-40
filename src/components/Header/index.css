@@ -1,0 +1,16 @@
+.header-bg-container {
+  background-size: cover;
+  border-bottom: 1px solid #616e7c;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.h-img {
+  width: 40px;
+}
+.icon-btn {
+  background-color: transparent;
+  border: 0px;
+  font-size: 25px;
+}
